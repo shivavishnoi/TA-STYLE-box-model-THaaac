@@ -1,0 +1,65 @@
+*{
+  padding: 0;
+  font-weight: lighter;
+  
+}
+hr {
+  width: 400px;
+  color: blanchedalmond;
+  margin: 20px auto;
+}
+h3, p{
+  text-align: center;
+}
+
+header h1{
+  padding: 20px;
+}
+
+
+.inner-box{
+  height: 100px;
+  width: 180px;
+  background-color: cadetblue;
+  margin: 10px;
+  position: absolute;
+}
+
+.outer-box{
+  height: 120px;
+  width: 200px;
+  background-color: rgb(1, 44, 46);
+  margin: 0 auto;
+  position: relative;
+  border: 2px solid rgb(0, 246, 185);
+  outline: pink solid 20px;
+}
+
+.exercise2{
+  height: 120px;
+  width: 620px;
+  border: 1px solid black;
+  margin: 0 auto;
+}
+.exercise2 div{
+  width: 180px;
+  height: 100px;
+  background-color: rosybrown;
+  display: inline-block;
+  margin: 10px;
+}
+
+.exercise2-border{
+  height: 250px;
+  width: 600px;
+  border: 1px solid black;
+  margin: 0 auto;
+}
+.exercise2-border div{
+  width: 180px;
+  height: 99px;
+  background-color: rosybrown;
+  display: inline-block;
+  border: 1px solid black ;
+  margin: 10px ;
+}
