@@ -1,0 +1,49 @@
+.box1{
+  background-color: brown;
+  border: 2px solid black;
+  height: 150px;
+  width: 150px;
+  margin: 10px;
+}
+
+.box2{
+  background-color: brown;
+  border: 2px solid black;
+  height: 150px;
+  width: 150px;
+  display: inline-block;
+  margin: 10px;
+}
+
+.box3, .box5{
+  background-color: brown;
+  border: 3px dashed rgb(5, 2, 2);
+  height: 150px;
+  width: 150px;
+  display: inline-block;
+  margin: 10px;
+}
+
+.box4{
+  background-color: brown;
+  border: 2px solid black;
+  height: 150px;
+  width: 150px;
+  margin: 10px;
+  display: inline-block;
+}
+
+.final{
+  /* box-sizing: border-box; */
+  height: 450px;
+  width: 300px;
+  background-color: red;
+  padding: 15px;
+  border-top: 10px solid blue;
+  border-right: 10px solid grey;
+  border-bottom: 10px solid yellow;
+  border-left: 10px solid green;
+  outline: violet solid 20px;
+  margin: 10px;
+}
+
