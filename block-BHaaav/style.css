@@ -1,0 +1,64 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-weight: lighter;
+  color: white;
+}
+section{
+  height: 50vh;
+}
+.center{
+  text-align: center;
+}
+header{
+  background-color: rgb(1, 1, 8);
+}
+header h2{
+  padding-top: 20px;
+}
+header nav{
+  padding: 20px 0;
+}
+header nav a{
+  text-decoration: none;
+  padding: 20px 10px;
+  font-size: small;
+}
+
+.solid-header{
+  width: 75vw;
+  margin: 0px auto;
+}
+.solid-header p,h1{
+  margin: 20px;
+}
+.section2{
+  background-color: rgb(8, 8, 104);
+}
+.content{
+  width: 75vw;
+  margin: 0px auto;
+}
+.circle{
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  background-color: orchid;
+  margin: 10px 0;
+}
+.content h3,p,a{
+  padding: 10px 0;
+}
+.bg-1{
+  background-color: rgb(9, 9, 206);
+}
+.bg-2{
+  
+  background-color: rgb(8, 8, 104);
+}
+footer{
+  background-color: rgb(1, 1, 8);
+}
+footer p{
+  padding: 20px 0;
+}
